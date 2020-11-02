@@ -548,6 +548,7 @@
         </div>
       </section>
       <!-- End Our Clients Section -->
+      <Blog></Blog>
     </main>
     <!-- End #main -->
   </div>

@@ -6,6 +6,7 @@ import 'popper.js';
 import 'bootstrap';
 import './assets/app.scss';
 
+Vue.component('Blog', require('./components/blog/BlogComponent').default);
 window.$ = window.jQuery =jQuery;
 
 Vue.config.productionTip = false
